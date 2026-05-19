@@ -1,0 +1,1324 @@
+﻿SITE:https://robospell-v6echmhp241089utm.my.canva.site/robospell-6-0-futuristic-gamified-spelling-app-design
+CANVA SHEET:https://canva.link/q49lffn2jj2ze3d
+ACCT:SUARES KANGWEI        m-15933384@moe-dl.edu.my        sjkcchinchiang3
+
+
+VERSION:3
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Design a high-fidelity futuristic mobile application called “ROBOSPELL 6.0” with subtitle “Created by EI CHAI HENG (MHP241087)”.
+
+
+This is a gamified English spelling learning application for primary school students aged 7–12. The system integrates:
+
+
+* Yu-kai Chou’s Octalysis Framework (8 Core Drives)
+* Principles of Design
+* Human Computer Interaction (HCI)
+* Modern UX/UI gamification standards
+* AI Voice Interaction System (Female Natural Voice)
+
+
+==================================================
+📚 COMPLETE VOCABULARY DATASET (YEAR 3)
+=======================================
+
+
+MODULE 1 — WELCOME!
+numbers, friend, shell, boy, girl, happy
+
+
+MODULE 2 — EVERY DAY
+wake up, breakfast, school, lunch, dinner, clock
+
+
+MODULE 3 — RIGHT NOW
+running, jumping, singing, dancing, playing
+
+
+MODULE 4 — YEAR IN, YEAR OUT
+sunny, rainy, windy, cloudy, hot, cold
+
+
+MODULE 5 — MY NEW HOUSE
+kitchen, bedroom, bathroom, sofa, table, chair
+
+
+MODULE 6 — FOOD, PLEASE!
+rice, noodles, chicken, juice, hungry, delicious
+
+
+MODULE 7 — OUT AND ABOUT
+bus, train, road, park, shop, traffic light
+
+
+MODULE 8 — WHERE WERE YOU YESTERDAY?
+yesterday, last night, museum, zoo, beach
+
+
+MODULE 9 — ON HOLIDAY
+suitcase, hotel, swimming, holiday, camera
+
+
+MODULE 10 — THE WORLD AROUND US
+planet, moon, star, earth, sun, space
+
+
+EXTRA VOCABULARY:
+colours: red, blue, green, yellow
+family: mother, father, sister, brother
+animals: cat, dog, bird, fish
+actions: eat, drink, sleep, read, write
+
+
+==================================================
+🎮 VISUAL UI REQUIREMENTS (VERY IMPORTANT)
+==========================================
+
+
+✔ DASHBOARD MUST BE CLEAR, SHARP & HIGH CONTRAST
+
+
+* no cluttered UI
+* strong visual hierarchy
+* large readable elements
+* clean spacing
+* crisp high-definition icons
+* production-ready mobile UI
+
+
+✔ TEXT REQUIREMENTS:
+
+
+* ALL TEXT MUST BE lowercase ONLY in spelling mode
+* simple, bold, readable typography
+* child-friendly font sizing
+* high contrast between text and background
+
+
+✔ VISUAL QUALITY:
+
+
+* HD / 4K sharp UI elements
+* no blur effects on text
+* no low contrast colors
+* clean structured layout
+
+
+==================================================
+🎯 SPELLING SYSTEM RULE (CRITICAL)
+==================================
+
+
+✔ ALL SPELLING INPUT AND OUTPUT MUST BE LOWERCASE ONLY
+
+
+RULES:
+
+
+* user input auto-converted to lowercase
+* system displays only lowercase words
+* no uppercase allowed in spelling mode
+* voice AI may pronounce capitalized words, but UI always lowercase
+
+
+EXAMPLE:
+word: school
+input: school
+result: correct ✓
+
+
+AUTO FIX:
+INPUT: School → system converts to school
+
+
+==================================================
+🎨 DESIGN STYLE DIRECTION
+=========================
+
+
+Inspired by:
+
+
+* Duolingo (learning clarity)
+* Roblox (game immersion)
+* Pokémon (progress system)
+* Cyberpunk UI aesthetics
+
+
+VISUAL STYLE:
+
+
+* futuristic EdTech game UI
+* solid dark background system (no washed-out UI)
+* glassmorphism only for cards
+* neon highlights for focus
+* 3D cartoon icons (sharp & clear)
+* glowing buttons with strong borders
+* fantasy space learning world
+
+
+==================================================
+🎨 COLOR SYSTEM (HIGH CONTRAST ONLY)
+====================================
+
+
+Background:
+deep navy #0b1020 (solid)
+
+
+Primary:
+neon purple #7b61ff
+
+
+Secondary:
+electric cyan #00d9ff
+
+
+Accent:
+cyber yellow #ffd93d
+
+
+Success:
+mint green #00e6a8
+
+
+TEXT RULE:
+
+
+* always white or near-white (#ffffff / #eaf2ff)
+* never low contrast text
+
+
+==================================================
+🧠 OCTALYSIS FRAMEWORK
+======================
+
+
+CD1 — Epic Meaning & Calling
+
+
+* save the word galaxy storyline
+* AI mentor “robolex”
+
+
+CD2 — Development & Accomplishment
+
+
+* xp, levels, badges, ranks
+
+
+CD3 — Empowerment of Creativity & Feedback
+
+
+* ai pronunciation feedback
+* instant correction system
+
+
+CD4 — Ownership & Possession
+
+
+* avatar customization
+* vocabulary card collection
+
+
+CD5 — Social Influence & Relatedness
+
+
+* multiplayer spelling battles
+* leaderboard system
+
+
+CD6 — Scarcity & Impatience
+
+
+* locked levels
+* mystery worlds
+
+
+CD7 — Unpredictability & Curiosity
+
+
+* mystery chests
+* spin wheel rewards
+
+
+CD8 — Loss & Avoidance
+
+
+* daily streak system
+* reminder alerts
+
+
+==================================================
+🧠 HCI REQUIREMENTS
+===================
+
+
+* visibility: clear UI elements
+* feedback: instant visual + sound response
+* consistency: uniform interface system
+* accessibility: large buttons + readable fonts
+* error prevention: hints + retry system
+* user control: pause, settings, retry anytime
+* learnability: simple onboarding tutorial
+* flexibility: adaptive difficulty AI
+
+
+==================================================
+🎧 AI VOICE SYSTEM (FEMALE NATURAL VOICE)
+=========================================
+
+
+FEATURES:
+
+
+* natural female english voice (warm, clear, friendly)
+* text-to-speech for all vocabulary words
+* pronunciation training system
+* robolex ai voice assistant
+* repeat-after-me mode
+* real-time pronunciation scoring
+* voice countdown in games
+* reward celebration voice
+
+
+VOICE UX RULES:
+
+
+* slow clear articulation for children
+* repeat button always visible
+* adjustable speed control
+* positive reinforcement only
+
+
+==================================================
+🎮 SPELLING GAME RULES (IMPORTANT)
+==================================
+
+
+✔ ALL SPELLING MODES MUST FOLLOW LOWERCASE RULE:
+
+
+* flashcards
+* spelling battle
+* ai trainer
+* daily quest
+* mini games
+* leaderboard challenge
+
+
+✔ system auto-converts uppercase input to lowercase
+
+
+==================================================
+🎮 MAIN APP SCREENS
+===================
+
+
+1. splash screen (robot + voice greeting)
+
+
+2. login / signup
+
+
+3. home dashboard (clear, sharp, structured)
+
+
+   * xp bar
+   * streak indicator
+   * daily missions
+   * start learning button (large CTA)
+   * voice coach widget
+
+
+4. adventure map (vocabulary planets)
+
+
+5. flashcards (tap for voice)
+
+
+6. spell battle arena (voice countdown)
+
+
+7. ai pronunciation trainer
+
+
+8. reward vault
+
+
+9. leaderboard
+
+
+10. avatar customization
+
+
+11. parent dashboard
+
+
+12. daily quest system
+
+
+13. mystery chest system (voice reveal)
+
+
+14. settings (voice + accessibility)
+
+
+==================================================
+🎮 GAME LOOP
+============
+
+
+listen → repeat → spell → play → earn xp → unlock reward → upgrade avatar → unlock world → repeat
+
+
+==================================================
+🎨 FINAL OUTPUT REQUIREMENTS
+============================
+
+
+Generate:
+
+
+* complete high-fidelity mobile UI/UX screens
+* clean, sharp, production-ready dashboard design
+* immersive gamified learning system
+* AI voice-integrated educational app
+* futuristic child-friendly mobile experience
+
+
+==================================================
+🏁 FINAL DESIGN GOAL
+====================
+
+
+The app must be:
+
+
+✔ futuristic & premium
+✔ HIGH CONTRAST & readable
+✔ SHARP & clean UI (no blur clutter)
+✔ fully lowercase spelling system
+✔ child-friendly & intuitive
+✔ production-ready EdTech interface
+✔ highly interactive with AI voice integration
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+<!doctype html>
+<html class="h-full">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ROBOSPELL 6.0</title>
+  <script src="https://cdn.tailwindcss.com/3.4.17"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lucide@0.263.0/dist/umd/lucide.min.js"></script>
+  <script src="/_sdk/element_sdk.js"></script>
+  <script src="/_sdk/data_sdk.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&amp;family=Nunito:wght@400;600;700;800&amp;display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; }
+    html, body { height: 100%; margin: 0; overflow: hidden; }
+    .font-orbitron { font-family: 'Orbitron', sans-serif; }
+    .font-nunito { font-family: 'Nunito', sans-serif; }
+    .glow-purple { box-shadow: 0 0 25px rgba(123,97,255,0.6), inset 0 0 20px rgba(123,97,255,0.15); }
+    .glow-cyan { box-shadow: 0 0 20px rgba(0,217,255,0.5), inset 0 0 15px rgba(0,217,255,0.1); }
+    .glow-green { box-shadow: 0 0 20px rgba(0,230,168,0.6), inset 0 0 15px rgba(0,230,168,0.15); }
+    .glow-yellow { box-shadow: 0 0 20px rgba(255,217,61,0.5), inset 0 0 15px rgba(255,217,61,0.1); }
+    .glass { background: rgba(15,20,40,0.6); backdrop-filter: blur(12px); border: 1px solid rgba(123,97,255,0.3); }
+    .neon-border { border: 2px solid #7b61ff; box-shadow: inset 0 0 10px rgba(123,97,255,0.2); }
+    .btn-glow { 
+      background: linear-gradient(135deg, #7b61ff, #5a3fd4);
+      border: 2px solid #9b7fff;
+      box-shadow: 0 0 25px rgba(123,97,255,0.5), 0 6px 20px rgba(0,0,0,0.4);
+      transition: all 0.3s;
+    }
+    .btn-glow:hover { transform: translateY(-2px); box-shadow: 0 0 35px rgba(123,97,255,0.7), 0 8px 25px rgba(0,0,0,0.5); }
+    .btn-glow:active { transform: translateY(0); }
+    .btn-cyan {
+      background: linear-gradient(135deg, #00d9ff, #0099cc);
+      border: 2px solid #33e0ff;
+      box-shadow: 0 0 25px rgba(0,217,255,0.5), 0 6px 20px rgba(0,0,0,0.4);
+    }
+    .btn-cyan:hover { transform: translateY(-2px); box-shadow: 0 0 35px rgba(0,217,255,0.7), 0 8px 25px rgba(0,0,0,0.5); }
+    .btn-yellow {
+      background: linear-gradient(135deg, #ffd93d, #ffb800);
+      border: 2px solid #ffe066;
+      box-shadow: 0 0 25px rgba(255,217,61,0.4), 0 6px 20px rgba(0,0,0,0.4);
+      color: #0b1020;
+    }
+    .btn-yellow:hover { transform: translateY(-2px); box-shadow: 0 0 35px rgba(255,217,61,0.6), 0 8px 25px rgba(0,0,0,0.5); }
+    .xp-bar { background: linear-gradient(90deg, #7b61ff, #00d9ff); }
+    .star-bg { position: fixed; width: 100%; height: 100%; pointer-events: none; overflow: hidden; z-index: 0; }
+    .star { position: absolute; width: 2px; height: 2px; background: white; border-radius: 50%; animation: twinkle 3s infinite; }
+    @keyframes twinkle { 0%,100% { opacity: 0.2; } 50% { opacity: 1; } }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    .float-anim { animation: float 3s ease-in-out infinite; }
+    @keyframes slideUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+    .slide-up { animation: slideUp 0.4s ease-out forwards; }
+    @keyframes pulse-glow { 0%,100% { box-shadow: 0 0 10px rgba(0,230,168,0.3); } 50% { box-shadow: 0 0 25px rgba(0,230,168,0.7); } }
+    .pulse-success { animation: pulse-glow 1.5s ease-in-out infinite; }
+    .module-card { transition: all 0.2s; cursor: pointer; }
+    .module-card:hover { transform: translateY(-3px); }
+    .shake { animation: shake 0.4s; }
+    @keyframes shake { 0%,100% { transform: translateX(0); } 25% { transform: translateX(-5px); } 75% { transform: translateX(5px); } }
+    input::placeholder { color: rgba(255,255,255,0.3); }
+    input[type="text"], input[type="text"]:focus { background: rgba(0,0,0,0.4); color: #ffffff; }
+    .screen { display: none; height: 100%; overflow-y: auto; }
+    .screen.active { display: flex; flex-direction: column; }
+    .nav-item { transition: all 0.2s; cursor: pointer; }
+    .nav-item.active { color: #00d9ff; filter: drop-shadow(0 0 8px rgba(0,217,255,0.4)); }
+    .badge-locked { opacity: 0.3; filter: grayscale(1); }
+    .toast { position: fixed; top: 20px; left: 50%; transform: translateX(-50%); z-index: 9999; padding: 14px 28px; border-radius: 12px; font-weight: 700; animation: slideUp 0.3s ease-out; border: 1px solid rgba(255,255,255,0.2); }
+    .stat-box { background: linear-gradient(135deg, rgba(123,97,255,0.15), rgba(0,217,255,0.1)); border: 1px solid rgba(123,97,255,0.3); }
+    .word-card { background: linear-gradient(135deg, rgba(0,217,255,0.1), rgba(123,97,255,0.1)); border: 1px solid rgba(0,217,255,0.3); }
+    .achievement-icon { font-size: 2.5rem; filter: drop-shadow(0 0 8px rgba(123,97,255,0.3)); }
+    .streak-flame { animation: flicker 2s ease-in-out infinite; }
+    @keyframes flicker { 0%,100% { transform: scale(1); } 50% { transform: scale(1.1); } }
+  </style>
+  <style>body { box-sizing: border-box; }</style>
+ </head>
+ <body class="h-full font-nunito" style="background: #0b1020; color: #ffffff;">
+  <div id="app" class="h-full relative flex flex-col" style="max-width: 100%; width: 100%; margin: 0 auto; background: #0b1020;"><!-- Stars Background -->
+   <div class="star-bg" id="starField"></div><!-- ============ SPLASH SCREEN ============ -->
+   <div id="screen-splash" class="screen active items-center justify-center relative z-10 p-4 md:p-8">
+    <div class="text-center slide-up">
+     <div class="text-6xl md:text-8xl mb-4 float-anim">
+      🤖
+     </div>
+     <h1 id="appTitle" class="font-orbitron text-3xl md:text-5xl font-black mb-2" style="background: linear-gradient(135deg, #7b61ff, #00d9ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">ROBOSPELL 6.0</h1>
+     <p id="appSubtitle" class="text-sm md:text-base opacity-70 mb-8">Created by EI CHAI HENG (MHP241087)</p>
+     <div class="glass rounded-2xl p-6 md:p-8 mb-6 neon-border max-w-md mx-auto">
+      <p class="text-lg md:text-xl font-bold mb-4" style="color: #00d9ff;">🌌 Save the Word Galaxy!</p>
+      <p class="text-sm md:text-base opacity-80 mb-4">Join Robolex on an epic mission to master English spelling across the universe!</p><input id="playerNameInput" type="text" placeholder="enter your name, hero..." class="w-full px-4 py-3 md:py-4 rounded-xl bg-black/40 border border-white/20 text-white font-bold text-center text-lg md:text-xl outline-none focus:border-cyan-400 mb-4" maxlength="15"> <button onclick="startGame()" class="btn-glow w-full py-3 md:py-4 rounded-xl text-white font-bold text-lg md:text-xl">🚀 BEGIN MISSION</button>
+     </div>
+    </div>
+   </div><!-- ============ MAIN DASHBOARD ============ -->
+   <div id="screen-dashboard" class="screen relative z-10"><!-- Top Bar -->
+    <div class="p-4 md:p-6 flex items-center justify-between border-b border-white/5">
+     <div class="flex items-center gap-2 md:gap-3">
+      <div class="w-10 h-10 md:w-12 md:h-12 rounded-full flex items-center justify-center text-xl md:text-2xl" style="background: linear-gradient(135deg, #7b61ff, #00d9ff);" id="avatarIcon">
+       🤖
+      </div>
+      <div>
+       <p class="font-bold text-sm md:text-base" id="playerDisplay">Hero</p>
+       <p class="text-xs opacity-60" id="rankDisplay">Space Cadet</p>
+      </div>
+     </div>
+     <div class="flex items-center gap-2 md:gap-3">
+      <div class="flex items-center gap-1 glass px-3 py-1 rounded-full text-xs md:text-sm"><span class="text-yellow-300">⚡</span> <span class="font-bold" id="xpDisplay">0</span>
+      </div>
+      <div class="flex items-center gap-1 glass px-3 py-1 rounded-full text-xs md:text-sm"><span class="text-orange-400">🔥</span> <span class="font-bold" id="streakDisplay">0</span>
+      </div>
+     </div>
+    </div><!-- Level Progress -->
+    <div class="px-4 md:px-6 py-4">
+     <div class="flex justify-between text-xs mb-1"><span style="color: #00d9ff;" class="font-bold">Level <span id="levelDisplay">1</span></span> <span class="opacity-60"><span id="xpProgress">0</span>/100 XP</span>
+     </div>
+     <div class="w-full h-3 rounded-full bg-white/10 overflow-hidden">
+      <div id="xpBar" class="h-full xp-bar rounded-full transition-all duration-500" style="width: 0%"></div>
+     </div>
+    </div><!-- Module Selection -->
+    <div class="flex-1 overflow-y-auto px-4 md:px-6 pb-32">
+     <h2 class="font-orbitron text-lg md:text-xl mb-3 md:mb-4" style="color: #ffd93d;">📚 Word Modules</h2>
+     <div id="moduleGrid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-4"></div><!-- Daily Challenge -->
+     <div class="mt-5 md:mt-6 glass rounded-2xl p-4 md:p-5 neon-border">
+      <div class="flex items-center gap-2 mb-2"><span class="text-xl md:text-2xl">⏰</span> <span class="font-bold text-sm md:text-base" style="color: #ffd93d;">Daily Challenge</span> <span class="text-[10px] md:text-xs opacity-60 ml-auto">🎯 CD6: Scarcity</span>
+      </div>
+      <p class="text-xs md:text-sm opacity-70 mb-3">Spell 5 random words to earn bonus XP!</p><button onclick="startDailyChallenge()" class="btn-cyan w-full py-2 md:py-3 rounded-xl font-bold text-sm md:text-base text-white">START CHALLENGE</button>
+     </div><!-- Leaderboard Preview -->
+     <div class="mt-4 md:mt-5 glass rounded-2xl p-4 md:p-5">
+      <div class="flex items-center gap-2 mb-3"><span class="text-xl md:text-2xl">🏆</span> <span class="font-bold text-sm md:text-base" style="color: #00d9ff;">Top Spellers</span> <span class="text-[10px] md:text-xs opacity-60 ml-auto">🎯 CD5: Social</span>
+      </div>
+      <div id="leaderboard" class="space-y-2"></div>
+     </div>
+    </div><!-- Bottom Nav -->
+    <div class="fixed bottom-0 left-0 right-0 z-50" style="background: linear-gradient(180deg, transparent, rgba(11,16,32,0.95));">
+     <div class="glass border-t border-white/10 flex justify-around py-3 md:py-4 px-4 max-w-full"><button onclick="showScreen('dashboard')" class="nav-item active flex flex-col items-center gap-1"> <i data-lucide="home" style="width:20px;height:20px;"></i> <span class="text-[10px] font-bold">Home</span> </button> <button onclick="showScreen('collection')" class="nav-item flex flex-col items-center gap-1"> <i data-lucide="book-open" style="width:20px;height:20px;"></i> <span class="text-[10px] font-bold">Collection</span> </button> <button onclick="showScreen('badges')" class="nav-item flex flex-col items-center gap-1"> <i data-lucide="award" style="width:20px;height:20px;"></i> <span class="text-[10px] font-bold">Badges</span> </button> <button onclick="showScreen('settings')" class="nav-item flex flex-col items-center gap-1"> <i data-lucide="settings" style="width:20px;height:20px;"></i> <span class="text-[10px] font-bold">Settings</span> </button>
+     </div>
+    </div>
+   </div><!-- ============ SPELLING GAME SCREEN ============ -->
+   <div id="screen-game" class="screen items-center justify-center relative z-10 p-4 md:p-6">
+    <div class="w-full max-w-2xl"><!-- Game Header -->
+     <div class="flex items-center justify-between mb-4 md:mb-6"><button onclick="exitGame()" class="glass w-9 h-9 md:w-10 md:h-10 rounded-full flex items-center justify-center"> <i data-lucide="arrow-left" style="width:18px;height:18px;"></i> </button>
+      <div class="glass px-4 py-1 md:py-2 rounded-full flex items-center gap-2"><span class="text-xs md:text-sm font-bold" id="gameModuleTitle">Module 1</span> <span class="text-[10px] md:text-xs opacity-60 ml-2">🎯 CD3: Feedback</span>
+      </div>
+      <div class="glass px-3 py-1 md:py-2 rounded-full"><span class="text-xs md:text-sm font-bold" id="wordCounter">1/6</span>
+      </div>
+     </div><!-- Progress Dots -->
+     <div id="progressDots" class="flex justify-center gap-2 md:gap-3 mb-6 md:mb-8"></div><!-- AI Mentor -->
+     <div class="text-center mb-4 md:mb-6">
+      <div class="inline-block float-anim text-5xl md:text-6xl mb-2 md:mb-3">
+       🤖
+      </div>
+      <div id="mentorBubble" class="glass rounded-2xl p-4 md:p-5 mb-2 md:mb-3 max-w-md mx-auto">
+       <p id="mentorText" class="text-sm md:text-base font-bold" style="color: #00d9ff;">🎯 CD1: Listen carefully and spell the word!</p>
+      </div>
+     </div><!-- Speak Button -->
+     <div class="flex justify-center mb-5 md:mb-6"><button onclick="speakCurrentWord()" id="speakBtn" class="w-16 h-16 md:w-20 md:h-20 rounded-full flex items-center justify-center text-2xl md:text-3xl glow-purple neon-border" style="background: rgba(123,97,255,0.2);"> 🔊 </button>
+     </div><!-- Input Area -->
+     <div class="glass rounded-2xl p-5 md:p-6 neon-border mb-4 md:mb-5 max-w-md mx-auto w-full"><label for="spellingInput" class="text-xs md:text-sm opacity-60 mb-2 block text-center">type the word below</label> <input id="spellingInput" type="text" autocomplete="off" autocapitalize="none" spellcheck="false" class="w-full px-4 py-3 md:py-4 rounded-xl bg-black/50 border-2 border-white/20 text-white font-bold text-lg md:text-xl text-center outline-none focus:border-purple-400 tracking-widest" placeholder="spell here...">
+      <div id="feedbackArea" class="text-center mt-3 min-h-[24px] text-sm md:text-base"></div>
+     </div><!-- Submit --> <button onclick="checkSpelling()" id="submitBtn" class="btn-glow w-full max-w-md mx-auto block py-3 md:py-4 rounded-xl text-white font-bold text-lg md:text-xl">CHECK ✓</button> <!-- Hint --> <button onclick="showHint()" id="hintBtn" class="mt-3 w-full max-w-md mx-auto block py-2 md:py-3 rounded-xl glass text-xs md:text-sm font-bold opacity-60 hover:opacity-100 transition">💡 Show Hint (-5 XP)</button>
+    </div>
+   </div><!-- ============ RESULTS SCREEN ============ -->
+   <div id="screen-results" class="screen items-center justify-center relative z-10 p-4 md:p-6">
+    <div class="text-center slide-up w-full max-w-md mx-auto">
+     <div class="text-6xl md:text-7xl mb-4" id="resultsEmoji">
+      🎉
+     </div>
+     <h2 class="font-orbitron text-2xl md:text-3xl font-bold mb-2" id="resultsTitle" style="color: #00e6a8;">Mission Complete!</h2>
+     <p class="opacity-70 text-sm md:text-base mb-6" id="resultsSubtext">Great job, hero!</p>
+     <div class="glass rounded-2xl p-5 md:p-6 neon-border mb-5">
+      <div class="grid grid-cols-3 gap-3 md:gap-4 text-center">
+       <div>
+        <p class="text-2xl md:text-3xl font-bold" style="color: #00e6a8;" id="correctCount">0</p>
+        <p class="text-xs md:text-sm opacity-60">Correct</p>
+       </div>
+       <div>
+        <p class="text-2xl md:text-3xl font-bold" style="color: #ff6b6b;" id="wrongCount">0</p>
+        <p class="text-xs md:text-sm opacity-60">Mistakes</p>
+       </div>
+       <div>
+        <p class="text-2xl md:text-3xl font-bold" style="color: #ffd93d;" id="xpEarned">0</p>
+        <p class="text-xs md:text-sm opacity-60">XP Earned</p>
+       </div>
+      </div>
+      <p class="text-[10px] md:text-xs opacity-50 mt-3">🎯 CD2: Accomplishment</p>
+     </div>
+     <div id="wrongWordsList" class="glass rounded-xl p-4 md:p-5 mb-5 text-left hidden">
+      <p class="text-sm md:text-base font-bold mb-2" style="color: #ff6b6b;">📝 Words to Practice:</p>
+      <div id="wrongWordsContent" class="space-y-1"></div>
+     </div><button onclick="showScreen('dashboard')" class="btn-glow w-full py-3 md:py-4 rounded-xl text-white font-bold text-base md:text-lg">🏠 BACK TO BASE</button> <button onclick="replayModule()" class="mt-3 w-full py-3 md:py-4 rounded-xl glass font-bold text-sm md:text-base">🔄 REPLAY MODULE</button>
+    </div>
+   </div><!-- ============ COLLECTION SCREEN ============ -->
+   <div id="screen-collection" class="screen relative z-10">
+    <div class="p-4 md:p-6 pb-32 overflow-y-auto flex-1">
+     <div class="flex items-center gap-2 md:gap-3 mb-4 md:mb-6"><button onclick="showScreen('dashboard')" class="glass w-9 h-9 md:w-10 md:h-10 rounded-full flex items-center justify-center"> <i data-lucide="arrow-left" style="width:18px;height:18px;"></i> </button>
+      <h2 class="font-orbitron text-lg md:text-xl" style="color: #00d9ff;">📖 Word Collection</h2><span class="text-[10px] md:text-xs opacity-60 ml-auto">🎯 CD4: Ownership</span>
+     </div>
+     <p class="text-xs md:text-sm opacity-60 mb-4 md:mb-6">Words you've mastered appear here!</p>
+     <div id="collectionGrid" class="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-2 md:gap-3"></div>
+     <div id="emptyCollection" class="text-center py-12 opacity-40">
+      <p class="text-5xl md:text-6xl mb-2">📭</p>
+      <p class="text-sm md:text-base">No words collected yet. Start spelling!</p>
+     </div>
+    </div>
+   </div><!-- ============ BADGES SCREEN ============ -->
+   <div id="screen-badges" class="screen relative z-10">
+    <div class="p-4 md:p-6 pb-32 overflow-y-auto flex-1">
+     <div class="flex items-center gap-2 md:gap-3 mb-4 md:mb-6"><button onclick="showScreen('dashboard')" class="glass w-9 h-9 md:w-10 md:h-10 rounded-full flex items-center justify-center"> <i data-lucide="arrow-left" style="width:18px;height:18px;"></i> </button>
+      <h2 class="font-orbitron text-lg md:text-xl" style="color: #ffd93d;">🏅 Badges</h2><span class="text-[10px] md:text-xs opacity-60 ml-auto">🎯 CD2: Progress</span>
+     </div>
+     <div id="badgeGrid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-4"></div>
+    </div>
+   </div><!-- ============ SETTINGS SCREEN ============ -->
+   <div id="screen-settings" class="screen relative z-10">
+    <div class="p-4 md:p-6 pb-32 overflow-y-auto flex-1">
+     <div class="flex items-center gap-2 md:gap-3 mb-4 md:mb-6"><button onclick="showScreen('dashboard')" class="glass w-9 h-9 md:w-10 md:h-10 rounded-full flex items-center justify-center"> <i data-lucide="arrow-left" style="width:18px;height:18px;"></i> </button>
+      <h2 class="font-orbitron text-lg md:text-xl">⚙️ Settings</h2>
+     </div>
+     <div class="space-y-3 md:space-y-4">
+      <div class="glass rounded-xl p-4 md:p-5">
+       <p class="font-bold text-sm md:text-base mb-2">🔊 Voice Speed</p><input type="range" id="voiceSpeed" min="0.5" max="1.5" step="0.1" value="0.8" class="w-full">
+       <p class="text-xs md:text-sm opacity-60 mt-1">Slower ← → Faster</p>
+      </div>
+      <div class="glass rounded-xl p-4 md:p-5">
+       <p class="font-bold text-sm md:text-base mb-1">🤖 AI Mentor Voice</p>
+       <p class="text-xs md:text-sm opacity-60">Female Natural Voice (English)</p>
+       <p class="text-[10px] md:text-xs opacity-50 mt-2">🎯 CD3: Real-time Feedback</p>
+      </div>
+      <div class="glass rounded-xl p-4 md:p-5">
+       <p class="font-bold text-sm md:text-base mb-3">🎨 Avatar</p>
+       <div class="flex gap-2 md:gap-3 flex-wrap" id="avatarPicker"><button onclick="setAvatar('🤖')" class="w-10 h-10 md:w-12 md:h-12 rounded-full glass flex items-center justify-center text-lg md:text-2xl">🤖</button> <button onclick="setAvatar('👾')" class="w-10 h-10 md:w-12 md:h-12 rounded-full glass flex items-center justify-center text-lg md:text-2xl">👾</button> <button onclick="setAvatar('🚀')" class="w-10 h-10 md:w-12 md:h-12 rounded-full glass flex items-center justify-center text-lg md:text-2xl">🚀</button> <button onclick="setAvatar('⭐')" class="w-10 h-10 md:w-12 md:h-12 rounded-full glass flex items-center justify-center text-lg md:text-2xl">⭐</button> <button onclick="setAvatar('🦊')" class="w-10 h-10 md:w-12 md:h-12 rounded-full glass flex items-center justify-center text-lg md:text-2xl">🦊</button> <button onclick="setAvatar('🐱')" class="w-10 h-10 md:w-12 md:h-12 rounded-full glass flex items-center justify-center text-lg md:text-2xl">🐱</button>
+       </div>
+       <p class="text-[10px] md:text-xs opacity-50 mt-2">🎯 CD4: Customization</p>
+      </div>
+      <div class="glass rounded-xl p-4 md:p-5">
+       <p class="font-bold text-sm md:text-base mb-2">📊 Stats</p>
+       <p class="text-xs md:text-sm opacity-60">Total Words Mastered: <span id="totalMastered">0</span></p>
+       <p class="text-xs md:text-sm opacity-60">Total XP: <span id="totalXP">0</span></p>
+       <p class="text-[10px] md:text-xs opacity-50 mt-2">🎯 CD1: Epic Meaning</p>
+      </div>
+     </div>
+    </div>
+   </div><!-- Toast -->
+   <div id="toast" class="toast hidden font-bold text-sm"></div>
+  </div>
+  <script>
+    // ============ VOCABULARY DATA ============
+    const MODULES = [
+      { id: 1, title: "Welcome!", icon: "👋", words: ["numbers","friend","shell","boy","girl","happy"] },
+      { id: 2, title: "Every Day", icon: "☀️", words: ["wake up","breakfast","school","lunch","dinner","clock"] },
+      { id: 3, title: "Right Now", icon: "🏃", words: ["running","jumping","singing","dancing","playing"] },
+      { id: 4, title: "Year In, Year Out", icon: "🌦️", words: ["sunny","rainy","windy","cloudy","hot","cold"] },
+      { id: 5, title: "My New House", icon: "🏠", words: ["kitchen","bedroom","bathroom","sofa","table","chair"] },
+      { id: 6, title: "Food, Please!", icon: "🍜", words: ["rice","noodles","chicken","juice","hungry","delicious"] },
+      { id: 7, title: "Out and About", icon: "🚌", words: ["bus","train","road","park","shop","traffic light"] },
+      { id: 8, title: "Yesterday", icon: "📅", words: ["yesterday","last night","museum","zoo","beach"] },
+      { id: 9, title: "On Holiday", icon: "✈️", words: ["suitcase","hotel","swimming","holiday","camera"] },
+      { id: 10, title: "The World", icon: "🌍", words: ["planet","moon","star","earth","sun","space"] },
+      { id: 11, title: "Colours", icon: "🎨", words: ["red","blue","green","yellow"] },
+      { id: 12, title: "Family", icon: "👨‍👩‍👧‍👦", words: ["mother","father","sister","brother"] },
+      { id: 13, title: "Animals", icon: "🐾", words: ["cat","dog","bird","fish"] },
+      { id: 14, title: "Actions", icon: "✍️", words: ["eat","drink","sleep","read","write"] }
+    ];
+
+
+    const BADGES = [
+      { id: "first_word", name: "First Word", icon: "🌟", desc: "Spell your first word", req: 1 },
+      { id: "ten_words", name: "Word Hunter", icon: "🎯", desc: "Master 10 words", req: 10 },
+      { id: "twenty_words", name: "Spell Wizard", icon: "🧙", desc: "Master 20 words", req: 20 },
+      { id: "fifty_words", name: "Galaxy Hero", icon: "🦸", desc: "Master 50 words", req: 50 },
+      { id: "streak_3", name: "On Fire", icon: "🔥", desc: "3 day streak", req: "streak3" },
+      { id: "streak_7", name: "Unstoppable", icon: "💎", desc: "7 day streak", req: "streak7" },
+      { id: "all_modules", name: "Champion", icon: "🏆", desc: "Complete all modules", req: "allmod" },
+      { id: "speed_demon", name: "Speed Demon", icon: "⚡", desc: "Spell 5 words under 30s", req: "speed" },
+      { id: "perfect", name: "Perfect Score", icon: "💯", desc: "No mistakes in a module", req: "perfect" }
+    ];
+
+
+    const RANKS = ["Space Cadet","Word Rookie","Spell Scout","Letter Knight","Vocab Hero","Galaxy Master"];
+
+
+    // ============ GAME STATE ============
+    let playerData = null;
+    let allRecords = [];
+    let currentModule = null;
+    let currentWordIndex = 0;
+    let currentWords = [];
+    let gameCorrect = 0;
+    let gameWrong = 0;
+    let gameXP = 0;
+    let wrongWords = [];
+    let hintUsed = false;
+    let gameStartTime = 0;
+
+
+    // ============ DATA SDK ============
+    const dataHandler = {
+      onDataChanged(data) {
+        allRecords = data;
+        if (data.length > 0) {
+          playerData = data[0];
+          updateDashboard();
+        }
+      }
+    };
+
+
+    async function initApp() {
+      const result = await window.dataSdk.init(dataHandler);
+      if (!result.isOk) console.error("Data SDK init failed");
+      generateStars();
+      renderModuleGrid();
+      renderBadges();
+      renderLeaderboard();
+    }
+    initApp();
+
+
+    // ============ ELEMENT SDK ============
+    const defaultConfig = {
+      app_title: "ROBOSPELL 6.0",
+      subtitle_text: "Created by EI CHAI HENG (MHP241087)",
+      background_color: "#0b1020",
+      primary_color: "#7b61ff",
+      text_color: "#ffffff",
+      accent_color: "#00d9ff",
+      secondary_action_color: "#ffd93d",
+      font_family: "Nunito",
+      font_size: 16
+    };
+
+
+    window.elementSdk.init({
+      defaultConfig,
+      onConfigChange: async (config) => {
+        const bg = config.background_color || defaultConfig.background_color;
+        const primary = config.primary_color || defaultConfig.primary_color;
+        const text = config.text_color || defaultConfig.text_color;
+        const accent = config.accent_color || defaultConfig.accent_color;
+        const secondary = config.secondary_action_color || defaultConfig.secondary_action_color;
+        const font = config.font_family || defaultConfig.font_family;
+        const size = config.font_size || defaultConfig.font_size;
+
+
+        document.body.style.background = bg;
+        document.body.style.color = text;
+        document.body.style.fontFamily = `${font}, Nunito, sans-serif`;
+        document.body.style.fontSize = `${size}px`;
+
+
+        const title = document.getElementById('appTitle');
+        if (title) title.textContent = config.app_title || defaultConfig.app_title;
+        const sub = document.getElementById('appSubtitle');
+        if (sub) sub.textContent = config.subtitle_text || defaultConfig.subtitle_text;
+      },
+      mapToCapabilities: (config) => ({
+        recolorables: [
+          { get: () => config.background_color || defaultConfig.background_color, set: (v) => { config.background_color = v; window.elementSdk.setConfig({ background_color: v }); } },
+          { get: () => config.accent_color || defaultConfig.accent_color, set: (v) => { config.accent_color = v; window.elementSdk.setConfig({ accent_color: v }); } },
+          { get: () => config.text_color || defaultConfig.text_color, set: (v) => { config.text_color = v; window.elementSdk.setConfig({ text_color: v }); } },
+          { get: () => config.primary_color || defaultConfig.primary_color, set: (v) => { config.primary_color = v; window.elementSdk.setConfig({ primary_color: v }); } },
+          { get: () => config.secondary_action_color || defaultConfig.secondary_action_color, set: (v) => { config.secondary_action_color = v; window.elementSdk.setConfig({ secondary_action_color: v }); } }
+        ],
+        borderables: [],
+        fontEditable: { get: () => config.font_family || defaultConfig.font_family, set: (v) => { config.font_family = v; window.elementSdk.setConfig({ font_family: v }); } },
+        fontSizeable: { get: () => config.font_size || defaultConfig.font_size, set: (v) => { config.font_size = v; window.elementSdk.setConfig({ font_size: v }); } }
+      }),
+      mapToEditPanelValues: (config) => new Map([
+        ["app_title", config.app_title || defaultConfig.app_title],
+        ["subtitle_text", config.subtitle_text || defaultConfig.subtitle_text]
+      ])
+    });
+
+
+    // ============ CORE FUNCTIONS ============
+    async function startGame() {
+      const name = document.getElementById('playerNameInput').value.trim() || "Hero";
+      if (!playerData) {
+        const btn = document.querySelector('#screen-splash .btn-glow');
+        btn.textContent = "Loading...";
+        btn.disabled = true;
+        const result = await window.dataSdk.create({
+          player_name: name,
+          xp: 0,
+          level: 1,
+          current_module: 1,
+          words_mastered: "",
+          streak: 1,
+          badges: "",
+          avatar_style: "🤖",
+          created_at: new Date().toISOString()
+        });
+        btn.textContent = "🚀 BEGIN MISSION";
+        btn.disabled = false;
+        if (!result.isOk) { showToast("Error saving. Try again!", "#ff6b6b"); return; }
+      }
+      showScreen('dashboard');
+    }
+
+
+    function showScreen(screen) {
+      document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+      document.getElementById(`screen-${screen}`).classList.add('active');
+      document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+      if (screen === 'collection') updateCollection();
+      if (screen === 'settings') updateSettings();
+    }
+
+
+    function updateDashboard() {
+      if (!playerData) return;
+      document.getElementById('playerDisplay').textContent = playerData.player_name || "Hero";
+      document.getElementById('xpDisplay').textContent = playerData.xp || 0;
+      document.getElementById('streakDisplay').textContent = playerData.streak || 0;
+      document.getElementById('levelDisplay').textContent = playerData.level || 1;
+      const xpInLevel = (playerData.xp || 0) % 100;
+      document.getElementById('xpProgress').textContent = xpInLevel;
+      document.getElementById('xpBar').style.width = `${xpInLevel}%`;
+      const rankIdx = Math.min(Math.floor(((playerData.level||1)-1)/2), RANKS.length-1);
+      document.getElementById('rankDisplay').textContent = RANKS[rankIdx];
+      document.getElementById('avatarIcon').textContent = playerData.avatar_style || "🤖";
+    }
+
+
+    function renderModuleGrid() {
+      const grid = document.getElementById('moduleGrid');
+      grid.innerHTML = MODULES.map((m, i) => {
+        const unlocked = !playerData || i <= (playerData.current_module || 1);
+        return `<div class="module-card glass rounded-xl p-3 md:p-4 ${unlocked ? '' : 'opacity-40'}" onclick="${unlocked ? `startModule(${m.id})` : ''}">
+          <div class="text-2xl md:text-3xl mb-1">${m.icon}</div>
+          <p class="text-xs md:text-sm font-bold">${m.title}</p>
+          <p class="text-[10px] md:text-xs opacity-50">${m.words.length} words</p>
+          <p class="text-[8px] md:text-[9px] opacity-40 mt-1">🎯 CD1: Epic</p>
+          ${!unlocked ? '<p class="text-[10px] md:text-xs mt-1" style="color:#ffd93d;">🔒 Locked</p>' : ''}
+        </div>`;
+      }).join('');
+    }
+
+
+    function startModule(moduleId) {
+      currentModule = MODULES.find(m => m.id === moduleId);
+      currentWords = [...currentModule.words].sort(() => Math.random() - 0.5);
+      currentWordIndex = 0;
+      gameCorrect = 0;
+      gameWrong = 0;
+      gameXP = 0;
+      wrongWords = [];
+      gameStartTime = Date.now();
+      showScreen('game');
+      loadWord();
+    }
+
+
+    function startDailyChallenge() {
+      const allWords = MODULES.flatMap(m => m.words);
+      const shuffled = allWords.sort(() => Math.random() - 0.5).slice(0, 5);
+      currentModule = { id: 0, title: "Daily Challenge", icon: "⏰", words: shuffled };
+      currentWords = shuffled;
+      currentWordIndex = 0;
+      gameCorrect = 0;
+      gameWrong = 0;
+      gameXP = 0;
+      wrongWords = [];
+      gameStartTime = Date.now();
+      showScreen('game');
+      loadWord();
+    }
+
+
+    function loadWord() {
+      document.getElementById('gameModuleTitle').textContent = currentModule.title;
+      document.getElementById('wordCounter').textContent = `${currentWordIndex + 1}/${currentWords.length}`;
+      document.getElementById('spellingInput').value = '';
+      document.getElementById('feedbackArea').innerHTML = '';
+      document.getElementById('spellingInput').classList.remove('shake');
+      hintUsed = false;
+
+
+      // Progress dots
+      const dots = document.getElementById('progressDots');
+      dots.innerHTML = currentWords.map((_, i) => 
+        `<div class="w-3 h-3 rounded-full ${i < currentWordIndex ? 'bg-green-400' : i === currentWordIndex ? 'bg-purple-400 glow-purple' : 'bg-white/20'}"></div>`
+      ).join('');
+
+
+      document.getElementById('mentorText').textContent = "Listen carefully and spell the word!";
+      setTimeout(() => speakCurrentWord(), 500);
+      document.getElementById('spellingInput').focus();
+    }
+
+
+    function speakCurrentWord() {
+      const word = currentWords[currentWordIndex];
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+        const utt = new SpeechSynthesisUtterance(word);
+        utt.rate = parseFloat(document.getElementById('voiceSpeed')?.value || 0.8);
+        utt.pitch = 1.1;
+        const voices = window.speechSynthesis.getVoices();
+        const femaleVoice = voices.find(v => v.lang.startsWith('en') && v.name.toLowerCase().includes('female')) || voices.find(v => v.lang.startsWith('en'));
+        if (femaleVoice) utt.voice = femaleVoice;
+        window.speechSynthesis.speak(utt);
+      }
+      const btn = document.getElementById('speakBtn');
+      btn.style.transform = 'scale(1.2)';
+      setTimeout(() => btn.style.transform = 'scale(1)', 200);
+    }
+
+
+    function showHint() {
+      const word = currentWords[currentWordIndex];
+      const hint = word[0] + '_'.repeat(word.length - 2) + word[word.length - 1];
+      document.getElementById('mentorText').textContent = `Hint: ${hint}`;
+      document.getElementById('mentorText').style.color = '#ffd93d';
+      hintUsed = true;
+    }
+
+
+    async function checkSpelling() {
+      const input = document.getElementById('spellingInput').value.toLowerCase().trim();
+      const word = currentWords[currentWordIndex].toLowerCase();
+
+
+      if (!input) { 
+        document.getElementById('spellingInput').classList.add('shake');
+        setTimeout(() => document.getElementById('spellingInput').classList.remove('shake'), 400);
+        return; 
+      }
+
+
+      if (input === word) {
+        // Correct
+        gameCorrect++;
+        const xpGain = hintUsed ? 5 : 10;
+        gameXP += xpGain;
+        document.getElementById('feedbackArea').innerHTML = `<span class="font-bold" style="color:#00e6a8;">✓ Correct! +${xpGain} XP</span>`;
+        document.getElementById('mentorText').textContent = "Amazing job! 🎉";
+        document.getElementById('mentorText').style.color = '#00e6a8';
+        
+        // Add to mastered
+        if (playerData) {
+          const mastered = playerData.words_mastered ? playerData.words_mastered.split(',') : [];
+          if (!mastered.includes(word)) mastered.push(word);
+          const newXP = (playerData.xp || 0) + xpGain;
+          const newLevel = Math.floor(newXP / 100) + 1;
+          await window.dataSdk.update({ ...playerData, xp: newXP, level: newLevel, words_mastered: mastered.join(',') });
+        }
+      } else {
+        // Wrong
+        gameWrong++;
+        wrongWords.push(word);
+        document.getElementById('feedbackArea').innerHTML = `<span class="font-bold" style="color:#ff6b6b;">✗ The word was: <span style="color:#ffd93d;">${word}</span></span>`;
+        document.getElementById('mentorText').textContent = "Keep trying! You'll get it next time! 💪";
+        document.getElementById('mentorText').style.color = '#ff6b6b';
+        document.getElementById('spellingInput').classList.add('shake');
+      }
+
+
+      document.getElementById('submitBtn').disabled = true;
+      setTimeout(() => {
+        document.getElementById('submitBtn').disabled = false;
+        currentWordIndex++;
+        if (currentWordIndex >= currentWords.length) {
+          showResults();
+        } else {
+          document.getElementById('mentorText').style.color = '#00d9ff';
+          loadWord();
+        }
+      }, 1800);
+    }
+
+
+    async function showResults() {
+      document.getElementById('correctCount').textContent = gameCorrect;
+      document.getElementById('wrongCount').textContent = gameWrong;
+      document.getElementById('xpEarned').textContent = gameXP;
+
+
+      if (gameWrong === 0) {
+        document.getElementById('resultsEmoji').textContent = '🏆';
+        document.getElementById('resultsTitle').textContent = 'PERFECT SCORE!';
+        document.getElementById('resultsTitle').style.color = '#ffd93d';
+      } else if (gameCorrect > gameWrong) {
+        document.getElementById('resultsEmoji').textContent = '🎉';
+        document.getElementById('resultsTitle').textContent = 'Mission Complete!';
+        document.getElementById('resultsTitle').style.color = '#00e6a8';
+      } else {
+        document.getElementById('resultsEmoji').textContent = '💪';
+        document.getElementById('resultsTitle').textContent = 'Keep Practicing!';
+        document.getElementById('resultsTitle').style.color = '#00d9ff';
+      }
+
+
+      if (wrongWords.length > 0) {
+        document.getElementById('wrongWordsList').classList.remove('hidden');
+        document.getElementById('wrongWordsContent').innerHTML = wrongWords.map(w => `<p class="text-xs opacity-80">• ${w}</p>`).join('');
+      } else {
+        document.getElementById('wrongWordsList').classList.add('hidden');
+      }
+
+
+      // Unlock next module
+      if (playerData && currentModule.id > 0 && currentModule.id >= (playerData.current_module || 1)) {
+        const nextMod = Math.min(currentModule.id + 1, MODULES.length);
+        await window.dataSdk.update({ ...playerData, current_module: nextMod });
+      }
+
+
+      showScreen('results');
+    }
+
+
+    function replayModule() {
+      if (currentModule) startModule(currentModule.id || 1);
+      else showScreen('dashboard');
+    }
+
+
+    function exitGame() { showScreen('dashboard'); }
+
+
+    function updateCollection() {
+      const mastered = playerData?.words_mastered ? playerData.words_mastered.split(',').filter(Boolean) : [];
+      const grid = document.getElementById('collectionGrid');
+      const empty = document.getElementById('emptyCollection');
+      if (mastered.length === 0) {
+        grid.innerHTML = '';
+        empty.classList.remove('hidden');
+      } else {
+        empty.classList.add('hidden');
+        grid.innerHTML = mastered.map(w => `<div class="glass rounded-lg p-2 text-center text-xs font-bold">${w}</div>`).join('');
+      }
+    }
+
+
+    function renderBadges() {
+      const grid = document.getElementById('badgeGrid');
+      const earned = playerData?.badges ? playerData.badges.split(',') : [];
+      const mastered = playerData?.words_mastered ? playerData.words_mastered.split(',').filter(Boolean).length : 0;
+      grid.innerHTML = BADGES.map(b => {
+        let unlocked = false;
+        if (typeof b.req === 'number') unlocked = mastered >= b.req;
+        return `<div class="glass rounded-xl p-3 md:p-4 text-center ${unlocked ? '' : 'badge-locked'}">
+          <div class="text-3xl md:text-4xl mb-1">${b.icon}</div>
+          <p class="text-[10px] md:text-xs font-bold">${b.name}</p>
+          <p class="text-[8px] md:text-[9px] opacity-60">${b.desc}</p>
+          <p class="text-[7px] md:text-[8px] opacity-40 mt-1">🎯 CD2: Achieve</p>
+        </div>`;
+      }).join('');
+    }
+
+
+    function renderLeaderboard() {
+      const board = document.getElementById('leaderboard');
+      const entries = [
+        { name: "RoboMaster", xp: 1250, icon: "👾" },
+        { name: "StarSpeller", xp: 980, icon: "⭐" },
+        { name: playerData?.player_name || "You", xp: playerData?.xp || 0, icon: playerData?.avatar_style || "🤖" }
+      ].sort((a, b) => b.xp - a.xp);
+      board.innerHTML = entries.map((e, i) => 
+        `<div class="flex items-center gap-2 md:gap-3 glass rounded-lg px-3 md:px-4 py-2 md:py-3">
+          <span class="text-xs md:text-sm font-bold w-5">${i+1}.</span>
+          <span class="text-lg md:text-2xl">${e.icon}</span>
+          <span class="text-xs md:text-sm font-bold flex-1">${e.name}</span>
+          <span class="text-xs md:text-sm font-bold" style="color:#ffd93d;">${e.xp} XP</span>
+        </div>`
+      ).join('');
+    }
+
+
+    function updateSettings() {
+      const mastered = playerData?.words_mastered ? playerData.words_mastered.split(',').filter(Boolean).length : 0;
+      document.getElementById('totalMastered').textContent = mastered;
+      document.getElementById('totalXP').textContent = playerData?.xp || 0;
+    }
+
+
+    async function setAvatar(emoji) {
+      if (playerData) {
+        await window.dataSdk.update({ ...playerData, avatar_style: emoji });
+      }
+      document.getElementById('avatarIcon').textContent = emoji;
+    }
+
+
+    function showToast(msg, color = '#00e6a8') {
+      const toast = document.getElementById('toast');
+      toast.textContent = msg;
+      toast.style.background = color;
+      toast.style.color = '#fff';
+      toast.classList.remove('hidden');
+      setTimeout(() => toast.classList.add('hidden'), 2500);
+    }
+
+
+    function generateStars() {
+      const field = document.getElementById('starField');
+      for (let i = 0; i < 50; i++) {
+        const star = document.createElement('div');
+        star.className = 'star';
+        star.style.left = Math.random() * 100 + '%';
+        star.style.top = Math.random() * 100 + '%';
+        star.style.animationDelay = Math.random() * 3 + 's';
+        field.appendChild(star);
+      }
+    }
+
+
+    // Enter key support
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' && document.getElementById('screen-game').classList.contains('active')) {
+        checkSpelling();
+      }
+    });
+
+
+    // Splash enter key
+    document.getElementById('playerNameInput').addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') startGame();
+    });
+
+
+    lucide.createIcons();
+  </script>
+ <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9fba6b8321dfcf0c',t:'MTc3ODc2NzEzMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+
+
+
+
+
+
+
+
+
+======================================================================================================
+
+
+Create a colorful and engaging educational worksheet titled:
+
+
+"ROBOSPELL ENGLISH SPELLING ASSESSMENT"
+PRE-TEST / POST-TEST INSTRUMENT
+(Gamification-Based Learning)
+
+
+Theme:
+
+
+Gamification-based learning
+Friendly robot mascot (RoboSpell)
+Bright colors (blue, green, orange, purple)
+Fun learning environment with stars, books, trophies, rockets, and school elements
+Child-friendly design for primary school students
+Attractive visual icons and realistic educational illustrations
+
+
+Include these sections:
+
+
+HEADER:
+
+
+RoboSpell mascot on top left
+Trophy/books icon on top right
+Student Information box:
+Name: __________
+Class: __________
+Date: __________
+
+
+OBJECTIVES:
+✔ Measure students’ English spelling proficiency before and after using RoboSpell
+✔ Evaluate effectiveness of gamification in spelling acquisition
+✔ Compare Pre-Test and Post-Test scores
+
+
+TEST STRUCTURE:
+Total Marks: 100
+Section A: Objective → 70 marks
+Section B: Dictation → 30 marks
+
+
+SECTION A: OBJECTIVE (70 MARKS)
+
+
+PART 1: MATCHING (15 marks)
+Instruction:
+"Match the picture with the correct word."
+
+
+Generate 5 questions using vocabulary from:
+
+
+MODULE 1 – WELCOME
+numbers, friend, shell, boy, girl, happy
+
+
+MODULE 2 – EVERY DAY
+wake up, breakfast, school, lunch, dinner, clock
+
+
+MODULE 3 – RIGHT NOW
+running, jumping, singing, dancing, playing
+
+
+MODULE 4 – YEAR IN, YEAR OUT
+sunny, rainy, windy, cloudy, hot, cold
+
+
+MODULE 5 – MY NEW HOUSE
+kitchen, bedroom, bathroom, sofa, table, chair
+
+
+MODULE 6 – FOOD, PLEASE!
+rice, noodles, chicken, juice, hungry, delicious
+
+
+MODULE 7 – OUT AND ABOUT
+bus, train, road, park, shop, traffic light
+
+
+MODULE 8 – WHERE WERE YOU YESTERDAY?
+yesterday, last night, museum, zoo, beach
+
+
+MODULE 9 – ON HOLIDAY
+suitcase, hotel, swimming, holiday, camera
+
+
+MODULE 10 – THE WORLD AROUND US
+planet, moon, star, earth, sun, space
+
+
+Use clear colorful images beside each question.
+
+
+PART 2: MULTIPLE CHOICE (20 marks)
+Instruction:
+"Choose the correct spelling."
+
+
+Generate 5 multiple-choice spelling questions:
+A. correct spelling
+B. wrong spelling
+C. wrong spelling
+
+
+PART 3: FILL IN THE BLANKS (35 marks)
+Instruction:
+"Look at the picture and write the correct word."
+
+
+Generate:
+
+
+Picture clues
+Incomplete spelling with blanks
+Vocabulary from the modules above
+
+
+SECTION B: SPELLING DICTATION (30 marks)
+
+
+Instruction:
+"Listen to your teacher (or RoboSpell audio) and write the word."
+
+
+Generate:
+Word 1: _______
+Word 2: _______
+Word 3: _______
+Word 4: _______
+Word 5: _______
+Word 6: _______
+Word 7: _______
+Word 8: _______
+Word 9: _______
+Word 10: _______
+
+
+Footer:
+"Great job, Robo-Learner!"
+"10 Modules. 10 Missions. 1 Goal: Master Spelling!"
+
+
+Design requirements:
+
+
+Two separate versions: PRE-TEST and POST-TEST
+Different questions for each test but same difficulty level
+Use realistic images with educational cartoon style
+Neat table layout like a formal assessment sheet
+Add motivational stickers/icons and game elements
+
+
+----------------------------------------------------------------------------------------------
+pre-post ujian
+_________________________________
+
+
+Site:https://preposttes.my.canva.site/
+Sheet:https://www.canva.com/design/DAHJpxFodBU/pqCuI6jT8sGXP1f1VEb7tQ/edit
+ACCT:CHONG ZHI YI        m-15933361@moe-dl.edu.my        sjkcchinchiang4
+Versi:3-----https://www.canva.com/ai/code/thread/17519a6c-c2c6-4128-b092-132a77af13d2
